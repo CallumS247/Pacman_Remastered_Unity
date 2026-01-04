@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ProfileSelect.unity
+    guid: 8fcf644107ca6b94cb12eba716ea1a53
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 4c320827b699930468fe2620816d7ade
+  - enabled: 1
+    path: Assets/Scenes/ClassicGame.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/RMGame1.unity
+    guid: 3e599cb7970a8304ea2c795cd224694c
+  - enabled: 1
+    path: Assets/Scenes/RMGame2.unity
+    guid: 8f02f784c0ce2864982cffc05c7cbdf1
+  m_configObjects: {}
